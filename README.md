@@ -7,3 +7,7 @@
 ## Python
 
 ### [7 Kyu](https://github.com/n3k0girl/.codewars/tree/main/python/7_kyu)
+
+## Nasm
+
+### [8 Kyu](https://github.com/n3k0girl/.codewars/tree/main/nasm/8_kyu)
