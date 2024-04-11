@@ -15,6 +15,8 @@
 
 ### [8 Kyu](https://github.com/kittygirlyy/.codewars/tree/main/cpp/8_kyu)
 
+### [6 Kyu](https://github.com/kittygirlyy/.codewars/tree/main/cpp/6_kyu)
+
 ## Python
 
 ### [7 Kyu](https://github.com/kittygirlyy/.codewars/tree/main/python/7_kyu)
