@@ -15,3 +15,7 @@
 ## Nasm ✨
 
 ### [8 Kyu](https://github.com/kittygirlyy/.codewars/tree/main/nasm/8_kyu)
+
+---
+
+##### [My profil](https://www.codewars.com/users/kittyyy) 💞
